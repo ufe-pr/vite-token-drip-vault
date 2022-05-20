@@ -1,7 +1,7 @@
 {
-  "name": "vite-token-auction",
+  "name": "vite-token-drip vault",
   "version": "0.0.1",
-  "description": "A DApp to support Token Auctioning",
+  "description": "A DApp to support Drip Vaults,
   "main": "index.js",
   "author": "ufedojoatabo@gmail.com",
   "license": "MIT",
